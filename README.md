@@ -1,2 +1,1 @@
-# Homework-13-e-Commerce
-Homework 13 e-Commerce
+# E-commerce Back End Starter Code
