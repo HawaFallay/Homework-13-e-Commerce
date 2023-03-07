@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "editor.cursorStyle": "block-outline",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.columnSelection": true
+}
